@@ -1,3 +1,5 @@
+#The code could not run. I tried my best, but still failed to present the neural network in the paper completely. 
+#But I put my thoughts and my understanding of the code here.
 import torch, torchvision.models as models #Call library, call neural network code
 
 def extract(patch): # Extract patch features
